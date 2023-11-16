@@ -15,15 +15,12 @@ print(w2s("小王的钱包有1116$，可以买个iphone7s。"))
 
 ## Install
 ```bash
-# from pip
-pip install cntn
-
 # from source
-git clone https://github.com/open-speech/cn-text-normalizer.git
+git clone https://github.com/Free-D/cn-text-normalizer-free.git
 cd cn-text-normalizer
 python setup install
 # or
-pip install git+https://github.com/open-speech/cn-text-normalizer
+pip install https://github.com/Free-D/cn-text-normalizer-free
 ```
 
 
